@@ -46,6 +46,9 @@ ro.incremental.enable=1
 # LMKD
 ro.lmk.low_ram=false
 
+# Maintainer
+ro.corvus.maintainer=Introdructor
+
 # Media
 debug.stagefright.ccodec=1
 debug.stagefright.omx_default_rank=0
