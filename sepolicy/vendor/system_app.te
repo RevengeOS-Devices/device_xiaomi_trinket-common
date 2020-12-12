@@ -8,3 +8,5 @@ allow system_app sysfs_battery_supply:dir { search };
 allow system_app sysfs_battery_supply:file { read };
 allow system_app sysfs_battery_supply:file { open };
 allow system_app sysfs_battery_supply:file { getattr }; 
+
+hal_client_domain(system_app, vendor_hal_fm)
