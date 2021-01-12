@@ -21,6 +21,6 @@
     <!-- Device specific doze package -->
     <string name="config_customDozePackage">org.lineageos.settings.doze/org.lineageos.settings.doze.DozeSettingsActivity</string>
 
-    <!-- SELinux Status Force to show Permissive TEMP-->
-    <string name="selinux_status_enforcing">Permissive</string>
+
+
 </resources>
